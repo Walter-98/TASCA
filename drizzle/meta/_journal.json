@@ -15,6 +15,20 @@
       "when": 1789290635264,
       "tag": "0001_groovy_nextwave",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1789310090969,
+      "tag": "0002_redundant_phalanx",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1789310110797,
+      "tag": "0003_colossal_gunslinger",
+      "breakpoints": true
     }
   ]
 }

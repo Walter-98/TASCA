@@ -44,3 +44,10 @@ next-env.d.ts
 /.codex/
 /outputs/
 /work/
+
+# Local credentials, generated outputs and exports
+.dev.vars*
+!.env.example
+!.dev.vars.example
+*.tsbuildinfo
+/exports/

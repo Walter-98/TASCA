@@ -1,4 +1,4 @@
-export type Account={id:string,name:string,opening:number,opening_date:string};
+export type Account={id:string,name:string,opening:number,opening_date:string,owner_id?:string,can_share?:boolean,shared?:boolean};
 export type Recurring={id:string,type:string,amount:number,category:string,description:string,account_id:string,start_date:string,end_date:string|null,active:number};
 export type Occurrence={id:string,recurring_id:string,date:string};
 export function localToday(){return new Intl.DateTimeFormat('sv-SE',{timeZone:'Europe/Rome'}).format(new Date());}
