@@ -8,6 +8,13 @@
       "when": 1789289837492,
       "tag": "0000_dizzy_yellow_claw",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1789290635264,
+      "tag": "0001_groovy_nextwave",
+      "breakpoints": true
     }
   ]
 }
